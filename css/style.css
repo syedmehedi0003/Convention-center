@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow:auto;
+}
+.fit-cover{
+    object-fit: cover;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.box{
+    border-radius: 10px;
+}
+.fa-apple{
+    font-size: 50px;
+    padding: 5px 16px;
+}
+.card{
+    border: none;
+
+}
+.card-f{
+    background-color: rgb(241, 234, 234);
+    padding-top: 12px;
+    color: blue;
+    font-weight: 600;
+    border-radius: 30px;
+}
+
+.mt-img{
+    height: 100%;
+    width: 100%;
+}
+
+.fa-google-play{
+    font-size: 50px;
+    padding: 5px 16px;
+}
+.copy{
+    padding-top:60px;
+}
+.fa-check-circle{
+   color: blue;
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+.fa-white{
+    color: white;
+}
+
+.card-rounded{
+    color: white;
+    border-radius: 30px;
+}
+.app img{
+    Width: 135px;
+    Height: 40px;
+}
+
+
+/* this is custom css  */
